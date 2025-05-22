@@ -3,9 +3,6 @@
 ## 📌 Overview
 This Tableau Workbook analyzes loan application data, covering various factors such as credit history, income, loan status, and demographics. The analysis includes multiple worksheets and dashboards to provide insights into loan approval patterns.
 
-## 📂 Data Sources
-- **Primary Source:** federated.1xktukg0twc2sq192rm980uggnrq (Potentially a connected database)
-
 ## 📊 Worksheets (Visualizations)
 1. **Credit History** - Analysis of applicants' credit histories.
 2. **Dependency Count** - Number of dependents per applicant.
